@@ -71,3 +71,23 @@ personalizada, y debe ser lanzada de manera manual) en caso de error.
 - Imprime el tipo de error.
 - Imprime si no se ha producido ningún error.
 - Imprime que la ejecución ha finalizado. 
+
+# 11 - Manejo de ficheros
+**EJERCICIO:** <br>
+Desarrolla un programa capaz de crear un archivo que se llame como tu usuario
+de GitHub y tenga la extension .txt
+Añade varias lineas en ese fichero:
+- Tu nombre.
+- Edad.
+- Lenguaje de programacion favorito.
+Imprime el contenido.
+Borra el fichero.
+
+**DIFICULTAD EXTRA (opcional):** <br>
+Desarrolla un programa de gestion de ventas que almacena sus datos en un archivo .txt.
+- Cada producto se guarda en una linea del archivo de la siguiente manera:
+    [nombre_producto], [cantidad_vendida], [precio]
+- Siguiendo ese formato, y mediante terminal, debe permitir añadir, consultar,
+actualizar, eliminar productor y salir.
+- Tambien debe poseer opciones para calcular la venta total y por producto.
+- La opcion salir borra el .txt.
