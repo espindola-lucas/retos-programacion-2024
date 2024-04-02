@@ -91,3 +91,21 @@ Desarrolla un programa de gestion de ventas que almacena sus datos en un archivo
 actualizar, eliminar productor y salir.
 - Tambien debe poseer opciones para calcular la venta total y por producto.
 - La opcion salir borra el .txt.
+
+# 12 - JSON Y XML
+IMPORTANTE: Solo debes subir el fichero de codigo como parte del ejercicio
+**EJERCICIO:** <br>
+desarrolla un programa capaz de crear un archivo XML y JSON que guarde los siguientes
+datos (haciendo uso de la sintaxsis correcta en cada caso):
+- Nombre
+- Edad
+- Fecha de nacimiento
+- Listado de lenguajes de programacion
+Muestra el contenido de los archivos.
+Borra los archivos.
+
+**DIFICULTAD EXTRA (opcional):** <br>
+Utilizando la logica de creacion de los archivos anteriores, crea un programa capaz
+de leer y transformar un una misma clase custom de tu lenguaje los datos
+almacenados en el XML y en el JSON.
+Borra los archivos.
