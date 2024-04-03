@@ -109,3 +109,19 @@ Utilizando la logica de creacion de los archivos anteriores, crea un programa ca
 de leer y transformar un una misma clase custom de tu lenguaje los datos
 almacenados en el XML y en el JSON.
 Borra los archivos.
+
+# 13 - Pruebas unitarias
+**EJERCICIO:** <br>
+Crea una funcion que se encargue de sumar dos numeros y retorne su resultado.
+Crea un test, utilizando las herramientas de tu lenguaje, que sea capaz de
+determinar si esa funcion se ejecuta correctamente.
+
+**DIFICULTAD EXTRA (opcional):** <br>
+Crea un diccionario con las siguientes claves y valores:
+"name": "Tu nombre"
+"age": "Tu edad"
+"birth_date": "Tu fecha de nacimiento"
+"programming_languages": ["Listado de lenguajes de programacion"]
+Crea dos test:
+- Un primero que determine que existen todos los campos.
+- Un segundo que determine que los datos introducidos son correctos.
