@@ -125,3 +125,20 @@ Crea un diccionario con las siguientes claves y valores:
 Crea dos test:
 - Un primero que determine que existen todos los campos.
 - Un segundo que determine que los datos introducidos son correctos.
+
+# 14 - Fechas
+**EJERCICIO:** <br>
+Crea dos variables utilizando los objetos fecha (date, o semejante) de tu lenguaje:
+- Una primera que represente la fecha (dia, mes, año, hora, minuto, segundo) actual.
+- Una segunda que represente tu fecha de nacimiento (tu puedes inventar la hora).
+Calcula cuantos años han transcurrido entre ambas fechas.
+
+**DIFICULTAD EXTRA (opcional):** <br>
+Utilizando la fecha de tu cumpleaños, formateala y muestra su resultadao de 10
+maneras diferentes. Por ejemplo:
+- Dia, mes y año
+- Hora, minuto y segundo
+- Dia de año
+- Dia de la semana
+- Nombre del mes
+- (lo que se te ocurra)
