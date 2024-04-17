@@ -143,7 +143,7 @@ maneras diferentes. Por ejemplo:
 - Nombre del mes
 - (lo que se te ocurra)
 
-# 14 - Fechas
+# 15 - Asincronia
 **EJERCICIO:** <br>
 Utilizando tu lenguaje, crea un programa capaz de ejecutar de manera asincrona una funcion
 que tardara en finalizar un numero concreto de segundos parametrizables. Tambien debes
@@ -158,3 +158,14 @@ en este orden:
 - Una funcion A que dura 1 segundo.
 - Una funcion D que dura 1 segundo.
 - La funcion D comienza su ejecucion cuando las 3 anteriores han finalizado.
+
+# 16 - Expresiones regulares
+**EJERCICIO:** <br>
+Utilizando tu lenguaje, explora el concepto de expresiones regulares, creando una que sea
+capaz de encontrar y extraer todos los numeros de un texto.
+
+**DIFICULTAD EXTRA (opcional):** <br>
+Crea 3 expreisones regulares (a tu criterio) capaces de:
+- Validar un email.
+- Validar un numero de telefono.
+- Validar una url.
