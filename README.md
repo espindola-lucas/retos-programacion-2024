@@ -142,3 +142,19 @@ maneras diferentes. Por ejemplo:
 - Dia de la semana
 - Nombre del mes
 - (lo que se te ocurra)
+
+# 14 - Fechas
+**EJERCICIO:** <br>
+Utilizando tu lenguaje, crea un programa capaz de ejecutar de manera asincrona una funcion
+que tardara en finalizar un numero concreto de segundos parametrizables. Tambien debes
+poder asignarle un nombre.
+La funcion imprime su nombre, cuando empieza, el tiempo que durara su ejecucion y cuando finaliza 
+
+**DIFICULTAD EXTRA (opcional):** <br>
+Utilizando el concepto de asincronia y la funcion anterior, crea el siguiente programa que ejecuta
+en este orden:
+- Una funcion C que dura 3 segundos.
+- Una funcion B que dura 2 segundos.
+- Una funcion A que dura 1 segundo.
+- Una funcion D que dura 1 segundo.
+- La funcion D comienza su ejecucion cuando las 3 anteriores han finalizado.
