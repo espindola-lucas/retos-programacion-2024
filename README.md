@@ -169,3 +169,12 @@ Crea 3 expreisones regulares (a tu criterio) capaces de:
 - Validar un email.
 - Validar un numero de telefono.
 - Validar una url.
+
+# 17 - Iteraciones
+**EJERCICIO:** <br>
+Utilizando tu lenguaje, emplea 3 mecanismos diferentes para imprimir
+numeros del 1 al 10 mediante iteracion.
+
+**DIFICULTAD EXTRA (opcional):** <br>
+Escribe el mayor numero de mecanismos que posea tu lenguaje
+para iterar valores. Eres capaz de utilizar 5? y 10?
