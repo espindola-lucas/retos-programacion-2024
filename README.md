@@ -178,3 +178,22 @@ numeros del 1 al 10 mediante iteracion.
 **DIFICULTAD EXTRA (opcional):** <br>
 Escribe el mayor numero de mecanismos que posea tu lenguaje
 para iterar valores. Eres capaz de utilizar 5? y 10?
+
+# 18 - Conjuntos
+**EJERCICIO:** <br>
+Utilizando tu lenguaje, crea un conjunto de datos y realiza las siguientes operaciones.
+- Añade un elemento al final.
+- Añade un elemento al principio.
+- Añade varios elementos en bloque al final.
+- Añade varios elementos en bloque en una posicion especifica.
+- Elimina un elemento en una posicion especifica.
+- Actualiza un valor en una posicion especifica.
+- Comprueba si un elemento se encuentra en el conjunto.
+- Elimina todo el contenido del conjunto.
+
+**DIFICULTAD EXTRA (opcional):** <br>
+Muestra un ejemplo de las siguientes operaciones con conjuntos:
+- Union.
+- Interseccion.
+- Diferencia.
+- Diferencia simetrica.
