@@ -197,3 +197,26 @@ Muestra un ejemplo de las siguientes operaciones con conjuntos:
 - Interseccion.
 - Diferencia.
 - Diferencia simetrica.
+
+# 19 - Enumeraciones
+**EJERCICIO:** <br>
+Utilizando tu lenguaje, explora la definicion del tipo de dato que siva
+para definir enumeraciones (Enum).
+Crea un Enum que represente los dias de la semana del lunes al domingo,
+en ese orden. Con ese enumerado, crea una operación que muestre
+el nombre del dia de la semana dependiendo del numero entero
+utilizado (del 1 al 7)
+
+
+**DIFICULTAD EXTRA (opcional):** <br>
+Crea un pequeño sistema de gestion del estado de pedidos.
+Implementa una clase que defina un pedido con las siguientes caracteristicas:
+- El pedido tiene un identificador y un estado.
+- El estado es un Enum con estos valores: PENDIENTE, ENVIADO, ENTREGADO y CANCELADO.
+- Implementa las funciones que sirvan para modificar el estado:
+    - Pedido enviado
+    - Pedido cancelado
+    - Pedido entregado
+    (Establece una logica, por ejemplo, no se puede entregar si no se ha enviado, etc..)
+- Implementa una funcion para mostrar texto descriptivo segun el estado actual.
+- Crea diferentes pedidos y muestra como se interactua con ellos.
