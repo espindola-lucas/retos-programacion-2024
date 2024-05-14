@@ -33,7 +33,7 @@ class Order:
         self.id_order = id_order
         self.status = Status.PENDING
 
-    def status_name(self):
+    def status_name(self) -> str:
         status_names = {
             Status.PENDING: 'Pending',
             Status.SHIPPED: 'Shipped',
@@ -45,21 +45,21 @@ class Order:
     def send_order(self):
         if self.status == Status.PENDING:
             self.status = Status.SHIPPED
-            print(f'Order {self.id_order} was shipped')
+            print(f'Order {self.id_order} was {self.status_name()}')
         else:
             print(f'Order {self.id_order} cannot be shipped because its status is {self.status_name()}')
 
     def cancel_order(self):
         if self.status == Status.SHIPPED or self.status == Status.PENDING:
             self.status = Status.CANCELLED
-            print(f'Order {self.id_order} has been canceled')
+            print(f'Order {self.id_order} has been {self.status_name()}')
         else:
             print(f'Order {self.id_order} cannot bt canceled because its status is {self.status_name()}')
     
     def deliver_order(self):
         if self.status == Status.SHIPPED:
             self.status = Status.DELIVERED
-            print(f'Order {self.id_order} has been delivered')
+            print(f'Order {self.id_order} has been {self.status_name()}')
         else:
             print(f'Order {self.id_order} cannot bt delivered because its status is {self.status_name()}')
     
