@@ -220,3 +220,17 @@ Implementa una clase que defina un pedido con las siguientes caracteristicas:
     (Establece una logica, por ejemplo, no se puede entregar si no se ha enviado, etc..)
 - Implementa una funcion para mostrar texto descriptivo segun el estado actual.
 - Crea diferentes pedidos y muestra como se interactua con ellos.
+
+# 20 - Peticiones HTTP
+**EJERCICIO:** <br>
+Utilizando un mecanismo de peticiones HTTP de tu lenguaje, realiza una peticion, 
+a la web que tu quieras, verifica que dicha peticion fue exitosa y muestra por
+consola el contenido de la web.
+
+**DIFICULTAD EXTRA (opcional):** <br>
+Utilizando la PokeAPI (https://pokeapi.co), crea un programa por terminal
+al que le puedas solicitar informacion de un Pokemon concreto utilizando su nombre o numero.
+- Muestra el nombre, id, peso, altura y tipo(s) del Pokemon.
+- Muestra el nombre de su cadena de evoluciones.
+- Muestra los juegos en los que aparece.
+- Controla posibles errores.
