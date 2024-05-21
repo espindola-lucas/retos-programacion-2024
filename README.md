@@ -234,3 +234,18 @@ al que le puedas solicitar informacion de un Pokemon concreto utilizando su nomb
 - Muestra el nombre de su cadena de evoluciones.
 - Muestra los juegos en los que aparece.
 - Controla posibles errores.
+
+# 21 - Callbacks
+**EJERCICIO:** <br>
+Explora el concepto de callback en tu lenguaje creando un ejemplo simple,
+que muestre su funcionamiento.
+
+**DIFICULTAD EXTRA (opcional):** <br>
+Crea un simulador de pedidos de un restaurante utilizando callbacks.
+Estara formado por una funcion que procesa pedidos.
+Debe aceptar el nombre del plato, una callback de confirmacion, una de listo
+y otra de entrega.
+- Debe imprimir un confirmacion cuando empiece el procesamiento.
+- Debe simular un tiempo aleatorio entre 1 a 10 segundos entre procesos.
+- Debe invocar a cada callback siguiendo un orden de procesado.
+- Debe notificar que el plato esta listo o ha sido entregado.
