@@ -267,3 +267,13 @@ realizar las siguientes operaciones de procesamiento y análisis:
 - Mayor calificación: Obtiene la calificación más alta de entre todas las
   de los alumnos.
 - Una calificación debe estar comprendida entre 0 y 10 (admite decimales).
+
+# 23 - Patron de diseño: Singleton
+**EJERCICIO:** <br>
+Explora el patron de diseño "singleton" y muestra como crearlo con un ejemplo generico.
+
+**DIFICULTAD EXTRA (opcional):** <br>
+Utiliza el patron de diseño "singleton" para reprensentar una clase que haga
+referencia a la sesion de usuario de una aplicacion ficticia.
+La sesion debe permitir asignar un usuario (id, username, nombre y email).
+recuperar los datos del usuario y borrar los datos de la sesion.
