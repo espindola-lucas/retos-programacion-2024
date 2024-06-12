@@ -277,3 +277,11 @@ Utiliza el patron de diseño "singleton" para reprensentar una clase que haga
 referencia a la sesion de usuario de una aplicacion ficticia.
 La sesion debe permitir asignar un usuario (id, username, nombre y email).
 recuperar los datos del usuario y borrar los datos de la sesion.
+
+# 24 - Decoradores
+**EJERCICIO:** <br>
+Explora el concepto de "decorador" y muestra como crearlo como un ejemplo generico.
+
+**DIFICULTAD EXTRA (opcional):** <br>
+Crea un decorador que sea capaz de contabilizar cuantas veces se ha llamado
+a una funcion y aplicalo a una funcion de tu eleccion.
