@@ -285,3 +285,16 @@ Explora el concepto de "decorador" y muestra como crearlo como un ejemplo generi
 **DIFICULTAD EXTRA (opcional):** <br>
 Crea un decorador que sea capaz de contabilizar cuantas veces se ha llamado
 a una funcion y aplicalo a una funcion de tu eleccion.
+
+# 25 - Logs
+**EJERCICIO:** <br>
+Explora el concepto de "logging" en tu lenguaje. Configuralo y muestra un ejemplo,
+con cada nivel de "severidad" disponible.
+
+**DIFICULTAD EXTRA (opcional):** <br>
+Crea un programa ficticio de gestion de tareas que permita añadir, eliminar y listar
+dichas tareas.
+- Añadir: recibe el nombre y descripcion.
+- Eliminar: por nombre de la tarea.
+Implementa diferentes mensajes de log que muestren informacion segun la tarea ejecutada.
+Utiliza el log para visualizar el tiempo de ejecucion de cada tarea.
