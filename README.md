@@ -323,7 +323,7 @@ usuarios y procesamiento de préstamos).
 2. Refactoriza el código: Separa las responsabilidades en diferentes clases
 siguiendo el Principio de Responsabilidad Única.
 
-# 26 - Solid OCP
+# 27 - Solid OCP
 **EJERCICIO:** <br>
 Explora el "Principio SOLID Abierto-Cerrado (Open-Close Principle, OCP)" 
 y crea un ejemplo simple donde se muestre su funcionamiento
@@ -338,3 +338,16 @@ Instrucciones:
 2. Comprueba que el sistema funciona.
 3. Agrega una quinta operación para calcular potencias.
 4. Comprueba que se cumple el OCP.
+
+# 28 - Solid LSP
+**EJERCICIO:** <br>
+Explora el `Principio SOLID de Sustitucion de Liskov(Liskov Substitution Principle, LSP)`
+y crea un ejemplo simple donde se muester su funcionamiento de forma correcta e incorrecta.
+
+**DIFICULTAD EXTRA (opcional):** <br>
+Crea una jerarquia de vehiculos. Todos ellos deben poder acelerar y frenar, asi como cumplir el LSP.
+Instrucciones:
+1. Crea la clase vehiculo.
+2. Añade tres subclases de vehiculo.
+3. Implementa las operaciones `acelerar` y `frenar` como corresponda.
+4. Desarrolla un codigo que compruebe que se cumple el LSP.
